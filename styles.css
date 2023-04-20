@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+h1{
+	color:blue;
+	font-size:25px;
+}
+
+h2{
+	color:blue;
+	text-decoration: underline;
+}
+
+img{
+	width:auto;
+	height:200px
+}
+
+div a{
+	color:black;
+	text-decoration:none;
+}
